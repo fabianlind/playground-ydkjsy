@@ -21,4 +21,3 @@ greetings("My name is ${firstName}")
 console.log(greetings) // -> = My name is ${firstName}
 
 // This ^ is called interpolation
-

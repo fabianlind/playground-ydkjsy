@@ -2,6 +2,7 @@
 
 let vals = [1,3,5,7]
 let vals2 = [2,4,6,8]
+let val3 = vals
 
 let sortedSumArray = [...vals, ...vals2].sort()
 
